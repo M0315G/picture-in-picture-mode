@@ -13,8 +13,8 @@
 > Use this Picture-In-Picture mode to multitask efficently and get more done.
 
 <p align="center">
-	<a href="https://www.youtube.com/watch?v=9ela0BQeP9M" alt="Youtube Video">
-        <img src="https://img.youtube.com/vi/9ela0BQeP9M/0.jpg" />
+	<a href="https://m0315g.github.io/picture-in-picture-mode/" alt="Youtube Video">
+        <img src="https://github.com/M0315G/picture-in-picture-mode/blob/master/resources/Screen.png?raw=true" />
     </a>
 </p>
 
