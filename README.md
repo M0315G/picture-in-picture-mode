@@ -25,7 +25,7 @@ To try it,
 Go to the website:
 
 ```sh
-<link for the website>
+https://m0315g.github.io/picture-in-picture-mode/
 ```
 Click on the `Button - Screen Capture`, to capture the screen you want to view in Picture-In-Picture Mode.
 
