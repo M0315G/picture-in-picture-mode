@@ -14,7 +14,7 @@
 
 <p align="center">
 	<a href="https://m0315g.github.io/picture-in-picture-mode/" alt="Youtube Video">
-        <img src="https://github.com/M0315G/picture-in-picture-mode/blob/master/resources/Screen.png?raw=true" />
+        <img src="https://github.com/M0315G/picture-in-picture-mode/blob/master/resources/workflow.gif?raw=true" />
     </a>
 </p>
 
